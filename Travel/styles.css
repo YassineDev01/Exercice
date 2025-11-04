@@ -398,4 +398,8 @@ font-weight: bold;
     justify-content: center;
 }
 
-
+.button-description {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
